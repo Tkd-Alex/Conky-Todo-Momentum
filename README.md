@@ -14,7 +14,9 @@ To use this Conky script you do the following istruction:
 1. Clone or download this repo in your Conky folder.
 2. Rename _momentumRequest.dist_ to _momentumRequest_
 3. Open your browser with Momentum, go in _Developer Tools_ -> _Network_ -> Right click on _todos_ -> _copy as curl_.
-![DevelopedTools](Image/DevelopedTools.jpg  "DevelopedTools")
+
+  ![DevelopedTools](Image/DevelopedTools.jpg  "DevelopedTools")
+
 4. Paste curl request in (without curl command) in _momentumRequest_
 5. Run the script with Conky or [Conky Manager](http://www.teejeetech.in/p/conky-manager.html) 
 
