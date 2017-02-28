@@ -36,7 +36,7 @@ minimum_size 0 0
 TEXT
 
 ${font Ubuntu:pixelsize=13}${color FFA300} MOMENTUM TODO
-${color EAEAEA}${font GE Inspira:pixelsize=16}${execpi 10 sh getdata.sh}
+${color EAEAEA}${font GE Inspira:pixelsize=16}${execpi 600 sh getData.sh}
 
 
 
